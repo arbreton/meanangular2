@@ -1,0 +1,48 @@
+#PersonInfo{
+	background-color: #e9ebee
+}
+
+#FixedImage{
+	position: fixed;
+	top: 80;
+	left: 20;
+	background-color: #e9ebee;
+}
+
+p.blocktext{
+	margin-left: auto;
+    margin-right: auto;
+    width: 12em
+}
+
+button.botoncandidato{
+	margin-right: auto;
+	margin-left: auto;
+	width: 200px
+}
+p.CenterName{
+	font-size: 20px;
+	margin-left: auto;
+    margin-right: auto;
+    width: 280px
+}
+#Foto{
+	margin-top: 65px;
+}
+img.candidato{
+	margin-top: 20px;
+}
+body {
+      position: relative; 
+  }
+.tipoEleccion{
+	font-size: 24px;
+ }
+ .btn-info{
+ 	border-radius: 20px;
+ 	width: 200px;
+ }
+#presidencial {padding-top:50px;height: auto; background-color: #ffffff;}
+#senadores {padding-top:50px;height:auto; background-color: #ffffff;}
+#diputados {padding-top:50px;height:auto; background-color: #ffffff;}
+#finalizar {padding-top:50px;height:auto; background-color: #ffffff;}
